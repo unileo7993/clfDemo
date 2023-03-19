@@ -12,3 +12,5 @@
   6. Based on the mapping provided, only able to create a utility method for ProductPayload, unable to
       understand the data-obeject assignment for other payload objects such as TranslationalPayload, 
       Product2ConfigurationPayload, ProductFeaturePayload, ProductOptionPayload.
+  7. C# azure bus trigger function file: processpayloaddata.zip.
+  8. Screenshots for Azure Portal Subscription hosting and output screen for payload json data.
