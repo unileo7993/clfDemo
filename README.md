@@ -10,5 +10,5 @@
   5. Once the raw data is fetched within the input parameter 'productItem', the trigger function process the data
       through utility method 'ProcessProductPayloadJson', to create the desired resultant json object.
   6. Based on the mapping provided, only able to create a utility method for ProductPayload, unable to
-      understand the data assignment for other payload objects such as TranslationalPayload, 
+      understand the data-obeject assignment for other payload objects such as TranslationalPayload, 
       Product2ConfigurationPayload, ProductFeaturePayload, ProductOptionPayload.
